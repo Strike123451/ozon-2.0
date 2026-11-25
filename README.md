@@ -5,7 +5,7 @@
 ## Запуск
 ```bash
 npm install
-npm run dev      # http://localhost:5173
+npm run dev      # http://localhost:3000
 npm run build
 ```
 
