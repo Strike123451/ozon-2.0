@@ -1,4 +1,4 @@
-# Магазин ножей (React + TypeScript + Vite)
+# Магазин ozon2.0 (React + TypeScript + Vite)
 
 Стек: React 18, TypeScript, Vite, Material UI, Redux Toolkit, React Router, Axios.
 
